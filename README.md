@@ -1,2 +1,3 @@
-# my-first-ml-project
-my first ml project with python
+### Welcome! 
+
+that's my first ml project with python
